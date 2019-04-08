@@ -1,0 +1,107 @@
+
+body
+{
+	background-color: #cce8f4;
+}
+.container
+{
+	
+	padding: 2%;
+}
+.header
+{
+	margin: 2%;
+	background-color: #0f04ce;
+	width:100%;
+	height:40%;
+}
+
+.content
+{
+	background-color:transparent;
+	margin: 2%;
+	width:100%;
+	height:60%
+}
+.nav
+{
+	background-color:transparent;
+	margin: 2%;
+	width:60%;
+	height:60%;
+	float:left;
+}
+.main
+{
+	background-color:transparent;
+	margin: 2%;
+	width:30%;
+	height:60%;
+	float:right;
+}
+
+input[type=text],input[type=password],input[type=email],input[type=date],input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.button {
+    
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 180px;
+    border-radius: 4px;
+}
+#form1
+{
+	float:right;
+	width:50%;
+	height:30%;
+	background-color: transparent;
+}
+
+#form1 .button {
+    
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 10%;
+    border-radius: 4px;
+    background-color: #011f65;
+}
+.header h1
+{
+	float:left;
+	font-weight: bold;
+}
+
+ #form1 input[type=text],input[type=password] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+

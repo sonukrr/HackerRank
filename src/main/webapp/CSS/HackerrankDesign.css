@@ -1,0 +1,215 @@
+
+body
+{
+	background-color: white;
+	
+}
+.container
+{
+	
+	padding: 2%;
+	
+}
+.header
+{
+	margin: 2%;
+	width:100%;
+	height:40%;
+	margin-left:30%;
+	
+}
+
+.content
+{
+	background-color:transparent;
+	margin: 2%;
+	width:100%;
+	height:80%
+}
+.main
+{
+	background-color:transparent;
+	margin: 2%;
+	width:45%;
+	height:80%;
+	margin-left: 25%;
+	border: 1px solid grey;
+	border-top: hidden;
+	padding: 10px 10px;
+}
+.top
+{
+	background-color:transparent;
+	width:48.25%;
+	height:80%;
+	margin-left: 25%;
+	border-bottom: hidden;
+	padding:0px;
+}
+input:checked + label +toggle2
+{
+	display: block;
+}
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    padding-left:30px;
+    margin: 12px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family:Helvetica;
+    font-size: medium;
+    color:grey;
+    background-repeat: no-repeat; 
+	background-size: 20px 20px;
+	background-position: 2px center;
+   
+}
+
+.icon1
+{
+	background-image:url('http://simpleicon.com/wp-content/uploads/user1.png');
+	
+}
+.icon2
+{
+	background-image:url('https://www.iconspng.com/images/gray-and-white-mail-icon/gray-and-white-mail-icon.jpg');
+
+}
+.icon3
+{
+	background-image:url('http://chittagongit.com//images/lock-icon-transparent-background/lock-icon-transparent-background-25.jpg');
+}
+
+
+.button {
+    
+    border: none;
+    background-color:green;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 180px;
+    border-radius: 4px;
+    margin-left: 30%
+}
+
+.button1{
+	
+	font-family:"Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 22%;
+    border-radius: 4px;
+}
+
+.buttonS{
+	font-family:"Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+    color: Black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    width: 49%;
+    border: 1px solid grey;
+    border-bottom:hidden; 
+    border-right:hidden;
+    font-weight: bold;
+    border-left:hidden; 
+    float:left;
+    padding-bottom:15px;
+    padding-top:15px;
+    
+}
+
+.buttonL{
+	font-family:"Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: Black;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom:15px;
+    padding-top:15px;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    width: 49%;
+    border: 1px solid grey;
+    border-right:hidden;
+    border-bottom:hidden; 
+    border-left:hidden; 
+    float:left;
+    font-weight: bold;
+    
+}
+
+.disabledL {
+    opacity: 0.6;
+    border: 1px solid grey;
+   
+    background-color: #e1e1e1;
+    
+}
+.disabledS {
+    opacity: 0.6;
+    border: 1px solid grey;
+     background-color: #e1e1e1;
+     border-right: hidden;
+}
+.p1
+{
+	color: blue;
+	font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	text-align: center;
+	font-family: cursive;
+}
+.p2
+{
+	color: grey;
+	font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 10px;
+	text-align: center;
+}
+
+.p3
+{
+	text-align: center;
+	text-decoration: none;
+	font-family: "Whitney SSm A", "Whitney SSm B", "Avenir", "Segoe UI", "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;"
+}
+
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+
+
+
